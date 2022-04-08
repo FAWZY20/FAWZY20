@@ -1,4 +1,4 @@
-<h1>Salut, je suis Fawzy</h1>
+<h1>Salut, je suis Fawzy 👋</h1>
 
 <img src="giphy.gif" alt="gif" height="400" width="1000"/>
 
