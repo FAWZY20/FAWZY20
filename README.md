@@ -11,7 +11,7 @@
   <div>
     <img src="avatar.png" alt="avatar" height="170" width="140"/>
   </div>
-  <div>
+  <div class="liens" >
     <h2>Trouvez-moi sur le Web 🌐 :</h2>
     <ul>
       <li>Me découvrire au sein de mon </a>Portfolio</a></li>
