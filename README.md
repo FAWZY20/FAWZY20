@@ -12,7 +12,7 @@
 <img align="left"  src="avatar.png" alt="avatar" height="170" width="140"/>
 <h2>Trouvez-moi sur le Web 🌍 :</h2>
  <ul>
-  <li>Me découvrire au sein de mon </a>Portfolio</a></li>
-  <li>Suivre mon actualité sur <a href="https://www.linkedin.com/in/fawzy-elsam-b18040150/" >Linkedin</a></li>
+  <li>Me découvrire au sein de mon <a href="https://fawzy-elsam.netlify.app/" target="_blank">Portfolio</a></li>
+  <li>Suivre mon actualité sur <a href="https://www.linkedin.com/in/fawzy-elsam-b18040150/" target="_blank">Linkedin</a></li>
 </ul>
 
